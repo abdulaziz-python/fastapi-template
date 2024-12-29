@@ -1,0 +1,34 @@
+v2/
+├── apps/
+│   └── __init__.py
+├── core/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── database.py
+│   ├── security.py
+│   └── dependencies.py
+├── migrations/
+│   ├── versions/
+│   ├── env.py
+│   ├── README
+│   ├── script.py.mako
+│   └── alembic.ini
+├── static/
+├── templates/
+├── tests/
+│   ├── __init__.py
+│   ├── conftest.py
+│   └── test_main.py
+├── utils/
+│   ├── __init__.py
+│   ├── logger.py
+│   └── helpers.py
+├── .env
+├── .gitignore
+├── alembic.ini
+├── main.py
+├── manage.py
+├── wsgi.py
+├── README.md
+└── requirements.txt
+
